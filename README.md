@@ -10,16 +10,16 @@ The Iris dataset is a classic dataset in machine learning containing 150 samples
 ---
 
 ## 🧠 ML Algorithm: Random Forest Classifier  
-
 This project:
 
-- Loads the built-in Iris dataset
-- Splits the data into training and testing sets (80/20)
-- Applies a Random Forest Classifier with:
-       - 100 decision trees (estimators)
-       - Random state set for reproducibility
-- Predicts outcomes on test data
+- Loads the built-in Iris dataset  
+- Splits the data into training and testing sets (80/20)  
+- Applies a Random Forest Classifier with:  
+  - 100 decision trees (estimators)  
+  - Random state set for reproducibility  
+- Predicts outcomes on test data  
 - Evaluates performance using accuracy score
+
 
 ---
 
@@ -30,4 +30,29 @@ This project:
 ---
 
 ## 📸 Output  
-Random Forest Classification Output in Console:
+
+📸 Output  
+![Random Forest Classifier Output](https://github.com/Syed-Imthiaz/ml-randomforest-iris/blob/main/Random%20Forest%20Classifier.JPG?raw=true)
+
+---
+
+## 👨‍💻 Author
+
+**Syed Imthiaz I**  
+B.E. Computer Science and Engineering  
+KCG College of Technology  
+ML Intern @ SystemTron – Generative AI Track  
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
+🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7353804350357483520/)
+
+
+---
+
+## 🚫 License & Disclaimer
+© 2025 Syed Imthiaz I — All rights reserved.
+Unauthorized copying, modification, distribution, or use of this code or any part of it is strictly prohibited without the express written permission of the author.
+
+📩 For permission requests, contact: syedimthiaz2006@gmail.com
+
+---
+
