@@ -31,7 +31,6 @@ This project:
 
 ## 📸 Output  
 
-📸 Output  
 ![Random Forest Classifier Output](https://github.com/Syed-Imthiaz/ml-randomforest-iris/blob/main/Random%20Forest%20Classifier.JPG?raw=true)
 
 ---
