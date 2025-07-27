@@ -4,22 +4,20 @@ This project demonstrates the Random Forest Classifier using Scikit-learn. It ap
 
 ---
 
-## 🔍 About the Dataset  
-The Iris dataset is a classic dataset in machine learning containing 150 samples of iris flowers from three different species. Each sample has 4 features: sepal length, sepal width, petal length, and petal width.
+
+## 📊 Dataset
+
+- **Source:** Scikit-learn's built-in Iris dataset
+- **Features:** Sepal Length, Sepal Width, Petal Length, Petal Width
+- **Target:** Setosa, Versicolor, Virginica
 
 ---
 
-## 🧠 ML Algorithm: Random Forest Classifier  
-This project:
+## 🧠 Model Used
 
-- Loads the built-in Iris dataset  
-- Splits the data into training and testing sets (80/20)  
-- Applies a Random Forest Classifier with:  
-  - 100 decision trees (estimators)  
-  - Random state set for reproducibility  
-- Predicts outcomes on test data  
-- Evaluates performance using accuracy score
-
+- **Algorithm:** Random Forest Classifier
+- **Accuracy:** ~96% (depending on random state)
+- **Evaluation Metrics:** Accuracy Score, Confusion Matrix, Classification Report
 
 ---
 
